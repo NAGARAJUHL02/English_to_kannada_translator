@@ -1,0 +1,9 @@
+This is a sample file for testing the translator.
+
+Hello, welcome to the English to Kannada translator application!
+This tool will help you translate English text to Kannada.
+It supports translation of words, sentences, paragraphs, and entire files.
+The translator uses Google Translate API for accurate translations.
+You can cache translations for faster retrieval in the future.
+
+Feel free to use this application for all your English to Kannada translation needs.
